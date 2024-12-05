@@ -6,7 +6,7 @@
 
 :necktie: [linkedin.com/in/vsevolod-iakovlev](https://www.linkedin.com/in/vsevolod-iakovlev/)
 
-:speech_balloon: ...
+:speech_balloon: [x.com/seva_iakovlev](https://x.com/seva_iakovlev)
 
 ## Education  
 

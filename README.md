@@ -47,7 +47,8 @@
 *Edinburgh, UK* | *September 2021 – Present*  
 - SGPE Econometrics 1 (Postgraduate) — Tutor  
 - SGPE Econometrics 1 (Postgraduate) — Stata labs assistant  
-- Econometric Methods (Postgraduate) — Stata labs assistant  
+- Econometric Methods (Postgraduate) — Stata labs assistant
+- The Economy (Undergraduate) — Exam marker
 
 ### Analyst Intern  
 **IC Select**
@@ -69,8 +70,9 @@
 
 ## Conference Presentations  
 
+- **Workshop on Frontiers of Macro Labour Economics** — Heriot-Watt University and Pnamure House, Edinburgh, UK (December 2024)
 - **Scotland and Northern England Conference in Applied Microeconomics** — University of St Andrews, Crieff, UK (May 2024)  
-- **SGPE Residential Conference** — University of Edinburgh, Crieff, UK (January 2024, 2023)  
+- **SGPE Residential Conference** — University of Edinburgh, Crieff, UK (January 2024, 2023)
 
 ## Skills  
 

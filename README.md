@@ -1,10 +1,12 @@
 # Vsevolod Iakovlev
-:email: [vsevolod.v.iakovlev@gmail.com](mailto:vsevolod.v.iakovlev@gmail.com)
-:necktie: [linkedin.com/in/vsevolod-iakovlev](https://www.linkedin.com/in/vsevolod-iakovlev/)
-:speech_balloon: ...
-
-
 [Education](#education) | [Work Experience](#work-experience) | [Publications](#publications) | [Conference Presentations](#conference-presentations) | [Skills](#skills)  | [Other](#courses)
+
+## Contacts
+:email: [vsevolod.v.iakovlev@gmail.com](mailto:vsevolod.v.iakovlev@gmail.com)
+
+:necktie: [linkedin.com/in/vsevolod-iakovlev](https://www.linkedin.com/in/vsevolod-iakovlev/)
+
+:speech_balloon: ...
 
 ## Education  
 

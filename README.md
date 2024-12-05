@@ -1,5 +1,5 @@
 # Vsevolod Iakovlev
-[Education](#education) | [Work Experience](#work-experience) | [Publications](#publications) | [Conference Presentations](#conference-presentations) | [Skills](#skills)  | [Other](#courses)
+[Education](#education) | [Work Experience](#work-experience) | [Teaching](#teaching-assistant ) | [Publications and presentations](#publications) | [Skills](#skills)  | [Other](#conference-presentations)
 
 ## Contacts
 :email: [vsevolod.v.iakovlev@gmail.com](mailto:vsevolod.v.iakovlev@gmail.com)

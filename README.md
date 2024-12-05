@@ -52,6 +52,8 @@
 - SGPE Econometrics 1 (Postgraduate) — Stata labs assistant
 
 **Heriot-Watt University**
+
+*Edinburgh, UK* | *January 2023 – Present*
 - Econometric Methods (Postgraduate) — Stata labs assistant
 - The Economy (Undergraduate) — Exam marker
 

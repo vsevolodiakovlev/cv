@@ -45,11 +45,13 @@
 - **Current Population Survey datasets matching**: Used R to identify returning respondents and matched records across 33 years of monthly CPS data.  
 
 ### Teaching Assistant  
-**University of Edinburgh, Heriot-Watt University**
+**University of Edinburgh**
 
 *Edinburgh, UK* | *September 2021 – Present*  
 - SGPE Econometrics 1 (Postgraduate) — Tutor  
-- SGPE Econometrics 1 (Postgraduate) — Stata labs assistant  
+- SGPE Econometrics 1 (Postgraduate) — Stata labs assistant
+
+**Heriot-Watt University**
 - Econometric Methods (Postgraduate) — Stata labs assistant
 - The Economy (Undergraduate) — Exam marker
 

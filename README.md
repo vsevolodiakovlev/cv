@@ -70,9 +70,13 @@
 
 ## Conference Presentations  
 
-- **Workshop on Frontiers of Macro Labour Economics** — Panmure House, Edinburgh, UK (December 2024)
-- **Scotland and Northern England Conference in Applied Microeconomics** — University of St Andrews, Crieff, UK (May 2024)  
-- **SGPE Residential Conference** — University of Edinburgh, Crieff, UK (January 2024, 2023)
+2024
+- **Workshop on Frontiers of Macro Labour Economics** — Panmure House, Edinburgh, UK
+- **Scotland and Northern England Conference in Applied Microeconomics** — University of St Andrews, Crieff, UK  
+- **SGPE Residential Conference** — University of Edinburgh, Crieff, UK
+
+2023
+- **SGPE Residential Conference** — University of Edinburgh, Crieff, UK
 
 ## Skills  
 

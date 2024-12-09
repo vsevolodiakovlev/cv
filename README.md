@@ -5,6 +5,8 @@
 
 :email: [vsevolod.v.iakovlev@gmail.com](mailto:vsevolod.v.iakovlev@gmail.com)
 
+:mortar_board: [scholar.google.com](https://scholar.google.com/citations?user=PhEW2foAAAAJ&hl=en)
+
 :necktie: [in/vsevolod-iakovlev](https://www.linkedin.com/in/vsevolod-iakovlev/)
 
 :speech_balloon: [@seva_iakovlev](https://x.com/seva_iakovlev)

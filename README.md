@@ -1,6 +1,8 @@
 # Vsevolod Iakovlev
 [Education](#education) | [Work Experience](#work-experience) | [Teaching](#teaching-assistant ) | [Publications and presentations](#publications) | [Skills](#skills)  | [Other](#courses)
 
+*I am an Economics PhD candidate at Heriot-Watt University. My research focuses on applied economics, particularly in labour and education. I am also interested in machine learning and agent-based modelling. My current projects explore labour mismatch, the gender wage gap, stable matching, and preference estimation.*
+
 ---
 
 :email: [vsevolod.v.iakovlev@gmail.com](mailto:vsevolod.v.iakovlev@gmail.com)
@@ -18,7 +20,7 @@
 ### PhD, Economics  
 **Heriot-Watt University, Centre for Social and Economic Data Analytics**
 
-*Edinburgh, UK* | *September 2021 – Present*  
+*Edinburgh, UK* | *September 2021 – September 2025*  
 - Research Project: Big Data Econometrics and Economic Applications  
 - Supervisors: Dr Cristina Tealdi, Dr Rachel Forshaw, Dr Erkal Ersoy  
 - Annual Reviewers: Prof Arnab Bhattacharjee, Prof Mark E. Schaffer  

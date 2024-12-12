@@ -5,7 +5,7 @@
 
 ---
 
-:page_facing_up: [pdf](raw.githubusercontent.com/vsevolodiakovlev/cv/blob/main/cv_vsevolod_iakovlev.pdf)
+:page_facing_up: [pdf](./cv_vsevolod_iakovlev.pdf)
 
 :email: [vsevolod.v.iakovlev@gmail.com](mailto:vsevolod.v.iakovlev@gmail.com)
 

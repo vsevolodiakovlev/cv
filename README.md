@@ -1,5 +1,5 @@
 # Vsevolod Iakovlev
-[Education](#education) | [Work Experience](#work-experience) | [Teaching](#teaching-assistant ) | [Publications and presentations](#publications) | [Skills](#skills)  | [Other](#courses) | [PDF](./cv_vsevolod_iakovlev.pdf)
+[Education](#education) | [Work Experience](#work-experience) | [Teaching](#teaching-assistant ) | [Publications, presentations, projects](#publications) | [Skills](#skills)  | [Other](#courses) | [PDF](./cv_vsevolod_iakovlev.pdf)
 
 *I am an Economics PhD candidate at Heriot-Watt University. My research focuses on applied economics, particularly in labour and education. I am also interested in machine learning and agent-based modelling. My current projects explore labour mismatch, the gender wage gap, stable matching, and preference estimation.*
 
@@ -88,6 +88,12 @@
 
 2023
 - **SGPE Residential Conference** — University of Edinburgh, Crieff, UK
+
+## Other Projects
+
+- [**toysimlm**](https://github.com/vsevolodiakovlev/toysimlm) — Python implementation of a simple microsimulation of labor mismatch based on a static interpretation of the two-sided matching model  
+- [**dap\_mrs**](https://github.com/vsevolodiakovlev/dap_mrs) — Python implementation of the deferred acceptance procedure to compute an applicant-optimal assignment using agents' characteristics and their counterparts' marginal rate of substitution
+
 
 ## Skills  
 

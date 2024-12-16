@@ -1,7 +1,7 @@
 # Vsevolod Iakovlev
 [Education](#education) | [Work Experience](#work-experience) | [Teaching](#teaching-assistant ) | [Publications](#publications) | [Presentations](#conference-presentations) | [Projects](#other-projects) | [Skills](#skills)  | [Other](#courses)
 
-*I am an Economics PhD candidate at Heriot-Watt University. My research focuses on applied economics, particularly in labour and education. I am also interested in machine learning and agent-based modelling. My current projects explore labour mismatch, the gender wage gap, stable matching, and preference estimation.*
+*I am an Economics PhD candidate at Heriot-Watt University, specializing in applied economics with a focus on labour and education. I am also interested in machine learning and agent-based modelling. My current projects explore labour mismatch, the gender wage gap, stable matching, and workers' preferences.*
 
 ---
 
